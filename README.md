@@ -21,9 +21,9 @@ This repository provides three end-to-end notebooks implementing Hyperdimensiona
    - Classifier: Prototype accumulation in a linear layer (weights), row-wise L2 normalization, dot product (cosine-like)  
    - Notes: Fixed-length ASCII (a–z + space) per original TorchHD example.
 
-## How to run (Colab)
+## How to run 
 
-- Open each notebook in Colab.
+- Open each notebook.
 - Run all cells top-to-bottom.  
 - GPU is optional but recommended for Text (ngrams) and large HDC dimensions.
 
