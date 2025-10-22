@@ -1,6 +1,6 @@
 # HDC Baselines
 
-This repo contains **three minimal, reproducible HDC baselines** for Image (MNIST), Voice (ISOLET), and Text (European Languages). 
+This repository provides three end-to-end notebooks implementing Hyperdimensional Computing (HDC) baselines for Image (MNIST), Voice (ISOLET), and Text (European Languages).
 
 ## Notebooks
 
@@ -31,12 +31,11 @@ This repo contains **three minimal, reproducible HDC baselines** for Image (MNIS
 ## References
 
 - **Image / General HDC encoding**  
-  *HDCC: A Hyperdimensional Computing Classifier*  
-  (HDCC/TorchHD pipeline; value–position binding, multi-bundle, majority sign)
+  Manabat, Alec Xavier, et al. "Performance analysis of hyperdimensional computing for character recognition." 2019 International Symposium on Multimedia and Communication Technology (ISMAC). IEEE, 2019.
 
 - **Voice (ISOLET / VoiceHD)**  
-  A. Imani et al., *VoiceHD: Hyperdimensional Computing for Speech Recognition*.
+  Imani, Mohsen, et al. "Voicehd: Hyperdimensional computing for efficient speech recognition." 2017 IEEE international conference on rebooting computing (ICRC). IEEE, 2017.
 
-- **Text (European Languages / TorchHD baseline)**  
-  E. Kleyko et al., *A Robust and Energy-Efficient Classifier Using Brain-Inspired Hyperdimensional Computing*.
+- **Text (European Languages)**  
+  Joshi, Aditya, Johan T. Halseth, and Pentti Kanerva. "Language geometry using random indexing." International Symposium on Quantum Interaction. Cham: Springer International Publishing, 2016.
 
