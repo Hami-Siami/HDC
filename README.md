@@ -30,12 +30,12 @@ This repository provides three end-to-end notebooks implementing Hyperdimensiona
 
 ## References
 
-- **Image / General HDC encoding**  
+-- **Image / General HDC encoding**  
   Manabat, Alec Xavier, et al. "Performance analysis of hyperdimensional computing for character recognition." 2019 International Symposium on Multimedia and Communication Technology (ISMAC). IEEE, 2019.
 
-- **Voice (ISOLET / VoiceHD)**  
+-- **Voice (ISOLET / VoiceHD)**  
   Imani, Mohsen, et al. "Voicehd: Hyperdimensional computing for efficient speech recognition." 2017 IEEE international conference on rebooting computing (ICRC). IEEE, 2017.
 
-- **Text (European Languages)**  
+-- **Text (European Languages)**  
   Joshi, Aditya, Johan T. Halseth, and Pentti Kanerva. "Language geometry using random indexing." International Symposium on Quantum Interaction. Cham: Springer International Publishing, 2016.
 
