@@ -25,7 +25,7 @@ This repository provides three end-to-end notebooks implementing Hyperdimensiona
 
 - Open each notebook.
 - Run all cells top-to-bottom.  
-- GPU is optional but recommended for Text (ngrams) and large HDC dimensions.
+- GPU is optional but recommended for Text task (ngrams) and large HDC dimensions.
 
 
 ## References
